@@ -1,0 +1,17 @@
+venv/
+.venv/
+venv_py37/
+myenv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.idea/
+.ipynb_checkpoints/
+
+.dist/
+
+captured_frame.jpg
+models.tar.gz
+models/

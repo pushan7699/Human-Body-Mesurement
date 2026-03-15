@@ -1,0 +1,538 @@
+Using pip 25.2 from C:\Users\SUTIRTHA SEN\AppData\Local\Programs\Python\Python312\Lib\site-packages\pip (python 3.12)
+Collecting opendr-toolkit
+  Using cached opendr-toolkit-3.0.0.tar.gz (22 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-nt1618fn\opendr_toolkit.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-nt1618fn\opendr_toolkit.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-nt1618fn\opendr_toolkit.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-nt1618fn\opendr_toolkit.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-nt1618fn\opendr_toolkit.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-nt1618fn\opendr_toolkit.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-nt1618fn\opendr_toolkit.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-nt1618fn\opendr_toolkit.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-engine (from opendr-toolkit)
+  Using cached opendr-toolkit-engine-3.0.0.tar.gz (37 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-tjbbc1oz\opendr_toolkit_engine.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-tjbbc1oz\opendr_toolkit_engine.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-tjbbc1oz\opendr_toolkit_engine.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-tjbbc1oz\opendr_toolkit_engine.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-tjbbc1oz\opendr_toolkit_engine.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-tjbbc1oz\opendr_toolkit_engine.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-tjbbc1oz\opendr_toolkit_engine.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\engine'
+  warning: no files found matching 'src\opendr\utils'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-tjbbc1oz\opendr_toolkit_engine.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-speech-recognition (from opendr-toolkit)
+  Using cached opendr-toolkit-speech-recognition-3.0.0.tar.gz (50 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5tifrl9v\opendr_toolkit_speech_recognition.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5tifrl9v\opendr_toolkit_speech_recognition.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5tifrl9v\opendr_toolkit_speech_recognition.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5tifrl9v\opendr_toolkit_speech_recognition.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5tifrl9v\opendr_toolkit_speech_recognition.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5tifrl9v\opendr_toolkit_speech_recognition.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5tifrl9v\opendr_toolkit_speech_recognition.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5tifrl9v\opendr_toolkit_speech_recognition.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-speech-transcription (from opendr-toolkit)
+  Using cached opendr-toolkit-speech-transcription-3.0.0.tar.gz (44 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-9g0enzm9\opendr_toolkit_speech_transcription.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-9g0enzm9\opendr_toolkit_speech_transcription.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-9g0enzm9\opendr_toolkit_speech_transcription.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-9g0enzm9\opendr_toolkit_speech_transcription.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-9g0enzm9\opendr_toolkit_speech_transcription.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-9g0enzm9\opendr_toolkit_speech_transcription.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-9g0enzm9\opendr_toolkit_speech_transcription.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-9g0enzm9\opendr_toolkit_speech_transcription.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-semantic-segmentation (from opendr-toolkit)
+  Using cached opendr-toolkit-semantic-segmentation-3.0.0.tar.gz (49 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-uudncbhn\opendr_toolkit_semantic_segmentation.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-uudncbhn\opendr_toolkit_semantic_segmentation.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-uudncbhn\opendr_toolkit_semantic_segmentation.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-uudncbhn\opendr_toolkit_semantic_segmentation.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-uudncbhn\opendr_toolkit_semantic_segmentation.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-uudncbhn\opendr_toolkit_semantic_segmentation.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-uudncbhn\opendr_toolkit_semantic_segmentation.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-uudncbhn\opendr_toolkit_semantic_segmentation.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-binary-high-resolution (from opendr-toolkit)
+  Using cached opendr-toolkit-binary-high-resolution-3.0.0.tar.gz (44 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-slv03nvv\opendr_toolkit_binary_high_resolution.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-slv03nvv\opendr_toolkit_binary_high_resolution.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-slv03nvv\opendr_toolkit_binary_high_resolution.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-slv03nvv\opendr_toolkit_binary_high_resolution.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-slv03nvv\opendr_toolkit_binary_high_resolution.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-slv03nvv\opendr_toolkit_binary_high_resolution.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-slv03nvv\opendr_toolkit_binary_high_resolution.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-slv03nvv\opendr_toolkit_binary_high_resolution.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-face-recognition (from opendr-toolkit)
+  Using cached opendr-toolkit-face-recognition-3.0.0.tar.gz (2.3 MB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8rgk6jrz\opendr_toolkit_face_recognition.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8rgk6jrz\opendr_toolkit_face_recognition.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8rgk6jrz\opendr_toolkit_face_recognition.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8rgk6jrz\opendr_toolkit_face_recognition.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8rgk6jrz\opendr_toolkit_face_recognition.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8rgk6jrz\opendr_toolkit_face_recognition.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8rgk6jrz\opendr_toolkit_face_recognition.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8rgk6jrz\opendr_toolkit_face_recognition.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-pose-estimation (from opendr-toolkit)
+  Using cached opendr-toolkit-pose-estimation-3.0.0.tar.gz (81 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-umfz8vaw\opendr_toolkit_pose_estimation.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-umfz8vaw\opendr_toolkit_pose_estimation.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-umfz8vaw\opendr_toolkit_pose_estimation.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-umfz8vaw\opendr_toolkit_pose_estimation.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-umfz8vaw\opendr_toolkit_pose_estimation.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-umfz8vaw\opendr_toolkit_pose_estimation.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-umfz8vaw\opendr_toolkit_pose_estimation.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-umfz8vaw\opendr_toolkit_pose_estimation.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-fall-detection (from opendr-toolkit)
+  Using cached opendr-toolkit-fall-detection-3.0.0.tar.gz (40 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-bspm7r_y\opendr_toolkit_fall_detection.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-bspm7r_y\opendr_toolkit_fall_detection.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-bspm7r_y\opendr_toolkit_fall_detection.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-bspm7r_y\opendr_toolkit_fall_detection.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-bspm7r_y\opendr_toolkit_fall_detection.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-bspm7r_y\opendr_toolkit_fall_detection.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-bspm7r_y\opendr_toolkit_fall_detection.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-bspm7r_y\opendr_toolkit_fall_detection.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-compressive-learning (from opendr-toolkit)
+  Using cached opendr-toolkit-compressive-learning-3.0.0.tar.gz (54 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fnjhvp6z\opendr_toolkit_compressive_learning.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fnjhvp6z\opendr_toolkit_compressive_learning.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fnjhvp6z\opendr_toolkit_compressive_learning.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fnjhvp6z\opendr_toolkit_compressive_learning.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fnjhvp6z\opendr_toolkit_compressive_learning.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fnjhvp6z\opendr_toolkit_compressive_learning.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fnjhvp6z\opendr_toolkit_compressive_learning.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fnjhvp6z\opendr_toolkit_compressive_learning.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-heart-anomaly-detection (from opendr-toolkit)
+  Using cached opendr-toolkit-heart-anomaly-detection-3.0.0.tar.gz (54 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5a2tse4c\opendr_toolkit_heart_anomaly_detection.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5a2tse4c\opendr_toolkit_heart_anomaly_detection.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5a2tse4c\opendr_toolkit_heart_anomaly_detection.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5a2tse4c\opendr_toolkit_heart_anomaly_detection.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5a2tse4c\opendr_toolkit_heart_anomaly_detection.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5a2tse4c\opendr_toolkit_heart_anomaly_detection.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5a2tse4c\opendr_toolkit_heart_anomaly_detection.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-5a2tse4c\opendr_toolkit_heart_anomaly_detection.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-multimodal-human-centric (from opendr-toolkit)
+  Using cached opendr-toolkit-multimodal-human-centric-3.0.0.tar.gz (97 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fvemxhej\opendr_toolkit_multimodal_human_centric.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fvemxhej\opendr_toolkit_multimodal_human_centric.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fvemxhej\opendr_toolkit_multimodal_human_centric.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fvemxhej\opendr_toolkit_multimodal_human_centric.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fvemxhej\opendr_toolkit_multimodal_human_centric.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fvemxhej\opendr_toolkit_multimodal_human_centric.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fvemxhej\opendr_toolkit_multimodal_human_centric.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-fvemxhej\opendr_toolkit_multimodal_human_centric.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-facial-expression-recognition (from opendr-toolkit)
+  Using cached opendr-toolkit-facial-expression-recognition-3.0.0.tar.gz (74 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-_r0xpplx\opendr_toolkit_facial_expression_recognition.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-_r0xpplx\opendr_toolkit_facial_expression_recognition.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-_r0xpplx\opendr_toolkit_facial_expression_recognition.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-_r0xpplx\opendr_toolkit_facial_expression_recognition.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-_r0xpplx\opendr_toolkit_facial_expression_recognition.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-_r0xpplx\opendr_toolkit_facial_expression_recognition.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-_r0xpplx\opendr_toolkit_facial_expression_recognition.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-_r0xpplx\opendr_toolkit_facial_expression_recognition.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-activity-recognition (from opendr-toolkit)
+  Using cached opendr-toolkit-activity-recognition-3.0.0.tar.gz (85 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-g_bzjsv6\opendr_toolkit_activity_recognition.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-g_bzjsv6\opendr_toolkit_activity_recognition.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-g_bzjsv6\opendr_toolkit_activity_recognition.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-g_bzjsv6\opendr_toolkit_activity_recognition.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-g_bzjsv6\opendr_toolkit_activity_recognition.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-g_bzjsv6\opendr_toolkit_activity_recognition.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-g_bzjsv6\opendr_toolkit_activity_recognition.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-g_bzjsv6\opendr_toolkit_activity_recognition.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-skeleton-based-action-recognition (from opendr-toolkit)
+  Using cached opendr-toolkit-skeleton-based-action-recognition-3.0.0.tar.gz (87 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-mqcy_umz\opendr_toolkit_skeleton_based_action_recognition.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-mqcy_umz\opendr_toolkit_skeleton_based_action_recognition.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-mqcy_umz\opendr_toolkit_skeleton_based_action_recognition.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-mqcy_umz\opendr_toolkit_skeleton_based_action_recognition.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-mqcy_umz\opendr_toolkit_skeleton_based_action_recognition.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-mqcy_umz\opendr_toolkit_skeleton_based_action_recognition.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-mqcy_umz\opendr_toolkit_skeleton_based_action_recognition.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-mqcy_umz\opendr_toolkit_skeleton_based_action_recognition.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-object-detection-2d (from opendr-toolkit)
+  Using cached opendr-toolkit-object-detection-2d-3.0.0.tar.gz (610 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  Compiling src/opendr/perception/object_detection_2d/retinaface/algorithm/cython\anchors.pyx because it changed.
+  Compiling src/opendr/perception/object_detection_2d/retinaface/algorithm/cython\bbox.pyx because it changed.
+  Compiling src/opendr/perception/object_detection_2d/retinaface/algorithm/cython\cpu_nms.pyx because it changed.
+  Compiling src/opendr/perception/object_detection_2d/retinaface/algorithm/cython\gpu_nms.pyx because it changed.
+  [1/4] Cythonizing src/opendr/perception/object_detection_2d/retinaface/algorithm/cython\anchors.pyx
+  [2/4] Cythonizing src/opendr/perception/object_detection_2d/retinaface/algorithm/cython\bbox.pyx
+  [3/4] Cythonizing src/opendr/perception/object_detection_2d/retinaface/algorithm/cython\cpu_nms.pyx
+  [4/4] Cythonizing src/opendr/perception/object_detection_2d/retinaface/algorithm/cython\gpu_nms.pyx
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-oejsuwru\opendr_toolkit_object_detection_2d.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-oejsuwru\opendr_toolkit_object_detection_2d.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-oejsuwru\opendr_toolkit_object_detection_2d.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-oejsuwru\opendr_toolkit_object_detection_2d.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-oejsuwru\opendr_toolkit_object_detection_2d.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-oejsuwru\opendr_toolkit_object_detection_2d.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-oejsuwru\opendr_toolkit_object_detection_2d.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-oejsuwru\opendr_toolkit_object_detection_2d.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-object-tracking-2d (from opendr-toolkit)
+  Downloading opendr-toolkit-object-tracking-2d-3.0.0.tar.gz (746 kB)
+     ---------------------------------------- 746.5/746.5 kB 2.4 MB/s  0:00:00
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-retsngsu\opendr_toolkit_object_tracking_2d.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-retsngsu\opendr_toolkit_object_tracking_2d.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-retsngsu\opendr_toolkit_object_tracking_2d.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-retsngsu\opendr_toolkit_object_tracking_2d.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-retsngsu\opendr_toolkit_object_tracking_2d.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-retsngsu\opendr_toolkit_object_tracking_2d.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-retsngsu\opendr_toolkit_object_tracking_2d.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-retsngsu\opendr_toolkit_object_tracking_2d.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-object-detection-3d (from opendr-toolkit)
+  Downloading opendr-toolkit-object-detection-3d-3.0.0.tar.gz (228 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-kv34ir92\opendr_toolkit_object_detection_3d.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-kv34ir92\opendr_toolkit_object_detection_3d.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-kv34ir92\opendr_toolkit_object_detection_3d.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-kv34ir92\opendr_toolkit_object_detection_3d.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-kv34ir92\opendr_toolkit_object_detection_3d.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-kv34ir92\opendr_toolkit_object_detection_3d.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-kv34ir92\opendr_toolkit_object_detection_3d.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-kv34ir92\opendr_toolkit_object_detection_3d.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-object-tracking-3d (from opendr-toolkit)
+  Downloading opendr-toolkit-object-tracking-3d-3.0.0.tar.gz (229 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8fg1w2bb\opendr_toolkit_object_tracking_3d.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8fg1w2bb\opendr_toolkit_object_tracking_3d.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8fg1w2bb\opendr_toolkit_object_tracking_3d.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8fg1w2bb\opendr_toolkit_object_tracking_3d.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8fg1w2bb\opendr_toolkit_object_tracking_3d.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8fg1w2bb\opendr_toolkit_object_tracking_3d.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8fg1w2bb\opendr_toolkit_object_tracking_3d.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-8fg1w2bb\opendr_toolkit_object_tracking_3d.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-gesture-recognition (from opendr-toolkit)
+  Downloading opendr-toolkit-gesture-recognition-3.0.0.tar.gz (44 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-6e3gg8wy\opendr_toolkit_gesture_recognition.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-6e3gg8wy\opendr_toolkit_gesture_recognition.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-6e3gg8wy\opendr_toolkit_gesture_recognition.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-6e3gg8wy\opendr_toolkit_gesture_recognition.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-6e3gg8wy\opendr_toolkit_gesture_recognition.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-6e3gg8wy\opendr_toolkit_gesture_recognition.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-6e3gg8wy\opendr_toolkit_gesture_recognition.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-6e3gg8wy\opendr_toolkit_gesture_recognition.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-panoptic-segmentation (from opendr-toolkit)
+  Downloading opendr-toolkit-panoptic-segmentation-3.0.0.tar.gz (3.0 MB)
+     ---------------------------------------- 3.0/3.0 MB 1.3 MB/s  0:00:02
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-0v5gzpav\opendr_toolkit_panoptic_segmentation.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-0v5gzpav\opendr_toolkit_panoptic_segmentation.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-0v5gzpav\opendr_toolkit_panoptic_segmentation.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-0v5gzpav\opendr_toolkit_panoptic_segmentation.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-0v5gzpav\opendr_toolkit_panoptic_segmentation.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-0v5gzpav\opendr_toolkit_panoptic_segmentation.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-0v5gzpav\opendr_toolkit_panoptic_segmentation.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-0v5gzpav\opendr_toolkit_panoptic_segmentation.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-human-model-generation (from opendr-toolkit)
+  Downloading opendr-toolkit-human-model-generation-3.0.0.tar.gz (90 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-42xi_68_\opendr_toolkit_human_model_generation.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-42xi_68_\opendr_toolkit_human_model_generation.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-42xi_68_\opendr_toolkit_human_model_generation.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-42xi_68_\opendr_toolkit_human_model_generation.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-42xi_68_\opendr_toolkit_human_model_generation.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-42xi_68_\opendr_toolkit_human_model_generation.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-42xi_68_\opendr_toolkit_human_model_generation.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\simulation'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-42xi_68_\opendr_toolkit_human_model_generation.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-hyperparameter-tuner (from opendr-toolkit)
+  Downloading opendr-toolkit-hyperparameter-tuner-3.0.0.tar.gz (42 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-4jc3cbe5\opendr_toolkit_hyperparameter_tuner.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-4jc3cbe5\opendr_toolkit_hyperparameter_tuner.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-4jc3cbe5\opendr_toolkit_hyperparameter_tuner.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-4jc3cbe5\opendr_toolkit_hyperparameter_tuner.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-4jc3cbe5\opendr_toolkit_hyperparameter_tuner.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-4jc3cbe5\opendr_toolkit_hyperparameter_tuner.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-4jc3cbe5\opendr_toolkit_hyperparameter_tuner.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\utils'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-4jc3cbe5\opendr_toolkit_hyperparameter_tuner.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting opendr-toolkit-ambiguity-measure (from opendr-toolkit)
+  Downloading opendr-toolkit-ambiguity-measure-3.0.0.tar.gz (41 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-t8fbp1kv\opendr_toolkit_ambiguity_measure.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-t8fbp1kv\opendr_toolkit_ambiguity_measure.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-t8fbp1kv\opendr_toolkit_ambiguity_measure.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-t8fbp1kv\opendr_toolkit_ambiguity_measure.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-t8fbp1kv\opendr_toolkit_ambiguity_measure.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-t8fbp1kv\opendr_toolkit_ambiguity_measure.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-t8fbp1kv\opendr_toolkit_ambiguity_measure.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\utils'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-t8fbp1kv\opendr_toolkit_ambiguity_measure.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+INFO: pip is looking at multiple versions of opendr-toolkit-activity-recognition to determine which version is compatible with other requirements. This could take a while.
+Collecting opendr-toolkit-activity-recognition (from opendr-toolkit)
+  Downloading opendr-toolkit-activity-recognition-2.2.0.tar.gz (83 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aqjvyiyu\opendr_toolkit_activity_recognition.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aqjvyiyu\opendr_toolkit_activity_recognition.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aqjvyiyu\opendr_toolkit_activity_recognition.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aqjvyiyu\opendr_toolkit_activity_recognition.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aqjvyiyu\opendr_toolkit_activity_recognition.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aqjvyiyu\opendr_toolkit_activity_recognition.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aqjvyiyu\opendr_toolkit_activity_recognition.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aqjvyiyu\opendr_toolkit_activity_recognition.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting pandas>=1.2 (from opendr-toolkit-activity-recognition->opendr-toolkit)
+  Obtaining dependency information for pandas>=1.2 from https://files.pythonhosted.org/packages/28/30/8114832daff7489f179971dbc1d854109b7f4365a546e3ea75b6516cea95/pandas-2.3.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading pandas-2.3.2-cp312-cp312-win_amd64.whl.metadata (19 kB)
+Collecting onnxruntime>=1.3.0 (from opendr-toolkit-activity-recognition->opendr-toolkit)
+  Obtaining dependency information for onnxruntime>=1.3.0 from https://files.pythonhosted.org/packages/5d/54/7139d463bb0a312890c9a5db87d7815d4a8cce9e6f5f28d04f0b55fcb160/onnxruntime-1.22.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading onnxruntime-1.22.1-cp312-cp312-win_amd64.whl.metadata (5.1 kB)
+Collecting pyyaml>=5.3 (from opendr-toolkit-activity-recognition->opendr-toolkit)
+  Obtaining dependency information for pyyaml>=5.3 from https://files.pythonhosted.org/packages/0c/e8/4f648c598b17c3d06e8753d7d13d57542b30d56e6c2dedf9c331ae56312e/PyYAML-6.0.2-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.2-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Collecting pytorch_lightning==1.2.3 (from opendr-toolkit-activity-recognition->opendr-toolkit)
+  Obtaining dependency information for pytorch_lightning==1.2.3 from https://files.pythonhosted.org/packages/bc/f0/3ee1bdd9d9f9d03e767d0a5aa31d582640c35ec97c940a4570da608aee5d/pytorch_lightning-1.2.3-py3-none-any.whl.metadata
+  Downloading pytorch_lightning-1.2.3-py3-none-any.whl.metadata (25 kB)
+Collecting tqdm (from opendr-toolkit-activity-recognition->opendr-toolkit)
+  Obtaining dependency information for tqdm from https://files.pythonhosted.org/packages/d0/30/dc54f88dd4a2b5dc8a0279bdd7270e735851848b762aeb1c1184ed1f6b14/tqdm-4.67.1-py3-none-any.whl.metadata
+  Downloading tqdm-4.67.1-py3-none-any.whl.metadata (57 kB)
+Collecting continual-inference>=1.0.2 (from opendr-toolkit-activity-recognition->opendr-toolkit)
+  Obtaining dependency information for continual-inference>=1.0.2 from https://files.pythonhosted.org/packages/5b/1f/ddad512b0a20656f094056c82708a2b2ef73a4338724cb2eb79ca5764382/continual_inference-1.2.4-py3-none-any.whl.metadata
+  Downloading continual_inference-1.2.4-py3-none-any.whl.metadata (32 kB)
+Collecting opendr-toolkit-activity-recognition (from opendr-toolkit)
+  Downloading opendr-toolkit-activity-recognition-2.1.0.tar.gz (83 kB)
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  running egg_info
+  creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aef8u3tc\opendr_toolkit_activity_recognition.egg-info
+  writing C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aef8u3tc\opendr_toolkit_activity_recognition.egg-info\PKG-INFO
+  writing dependency_links to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aef8u3tc\opendr_toolkit_activity_recognition.egg-info\dependency_links.txt
+  writing requirements to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aef8u3tc\opendr_toolkit_activity_recognition.egg-info\requires.txt
+  writing top-level names to C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aef8u3tc\opendr_toolkit_activity_recognition.egg-info\top_level.txt
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aef8u3tc\opendr_toolkit_activity_recognition.egg-info\SOURCES.txt'
+  reading manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aef8u3tc\opendr_toolkit_activity_recognition.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no files found matching 'src\opendr\perception'
+  adding license file 'LICENSE'
+  writing manifest file 'C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-pip-egg-info-aef8u3tc\opendr_toolkit_activity_recognition.egg-info\SOURCES.txt'
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: joblib>=1.0.1 in c:\users\sutirtha sen\appdata\local\programs\python\python312\lib\site-packages (from opendr-toolkit-activity-recognition->opendr-toolkit) (1.3.2)
+Collecting onnx==1.8.0 (from opendr-toolkit-activity-recognition->opendr-toolkit)
+  Downloading onnx-1.8.0.tar.gz (5.2 MB)
+     ---------------------------------------- 5.2/5.2 MB 1.3 MB/s  0:00:04
+  Installing build dependencies: started
+  Running command pip subprocess to install build dependencies
+  Using pip 25.2 from C:\Users\SUTIRTHA SEN\AppData\Local\Programs\Python\Python312\Lib\site-packages\pip (python 3.12)
+  Collecting setuptools
+    Obtaining dependency information for setuptools from https://files.pythonhosted.org/packages/a3/dc/17031897dae0efacfea57dfd3a82fdd2a2aeb58e0ff71b77b87e44edc772/setuptools-80.9.0-py3-none-any.whl.metadata
+    Using cached setuptools-80.9.0-py3-none-any.whl.metadata (6.6 kB)
+  Collecting wheel
+    Obtaining dependency information for wheel from https://files.pythonhosted.org/packages/0b/2c/87f3254fd8ffd29e4c02732eee68a83a1d3c346ae39bc6822dcbcb697f2b/wheel-0.45.1-py3-none-any.whl.metadata
+    Using cached wheel-0.45.1-py3-none-any.whl.metadata (2.3 kB)
+  Collecting protobuf
+    Obtaining dependency information for protobuf from https://files.pythonhosted.org/packages/8c/f3/6f58f841f6ebafe076cebeae33fc336e900619d34b1c93e4b5c97a81fdfa/protobuf-6.32.1-cp310-abi3-win_amd64.whl.metadata
+    Using cached protobuf-6.32.1-cp310-abi3-win_amd64.whl.metadata (593 bytes)
+  Using cached setuptools-80.9.0-py3-none-any.whl (1.2 MB)
+  Using cached wheel-0.45.1-py3-none-any.whl (72 kB)
+  Using cached protobuf-6.32.1-cp310-abi3-win_amd64.whl (435 kB)
+  Installing collected packages: wheel, setuptools, protobuf
+    Creating C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-build-env-73xstj65\overlay\Scripts
+
+  Successfully installed protobuf-6.32.1 setuptools-80.9.0 wheel-0.45.1
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Running command Getting requirements to build wheel
+  <string>:32: DeprecationWarning: Use shutil.which instead of find_executable
+  <string>:33: DeprecationWarning: Use shutil.which instead of find_executable
+  Traceback (most recent call last):
+    File "C:\Users\SUTIRTHA SEN\AppData\Local\Programs\Python\Python312\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 389, in <module>
+      main()
+    File "C:\Users\SUTIRTHA SEN\AppData\Local\Programs\Python\Python312\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 373, in main
+      json_out["return_val"] = hook(**hook_input["kwargs"])
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\SUTIRTHA SEN\AppData\Local\Programs\Python\Python312\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py", line 143, in get_requires_for_build_wheel
+      return hook(config_settings)
+             ^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-build-env-73xstj65\overlay\Lib\site-packages\setuptools\build_meta.py", line 331, in get_requires_for_build_wheel
+      return self._get_build_requires(config_settings, requirements=[])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-build-env-73xstj65\overlay\Lib\site-packages\setuptools\build_meta.py", line 301, in _get_build_requires
+      self.run_setup()
+    File "C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-build-env-73xstj65\overlay\Lib\site-packages\setuptools\build_meta.py", line 512, in run_setup
+      super().run_setup(setup_script=setup_script)
+    File "C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-build-env-73xstj65\overlay\Lib\site-packages\setuptools\build_meta.py", line 317, in run_setup
+      exec(code, locals())
+    File "<string>", line 75, in <module>
+  AssertionError: Could not find "cmake" executable!
+  error: subprocess-exited-with-error
+  
+  Getting requirements to build wheel did not run successfully.
+  exit code: 1
+  
+  See above for output.
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  full command: 'C:\Users\SUTIRTHA SEN\AppData\Local\Programs\Python\Python312\python.exe' 'C:\Users\SUTIRTHA SEN\AppData\Local\Programs\Python\Python312\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py' get_requires_for_build_wheel 'C:\Users\SUTIRT~1\AppData\Local\Temp\tmpn0zp15m5'
+  cwd: C:\Users\SUTIRTHA SEN\AppData\Local\Temp\pip-install-k2d8ohh3\onnx_febc096f759c480287f90d33561f5c1e
+  Getting requirements to build wheel: finished with status 'error'
+error: subprocess-exited-with-error
+
+Getting requirements to build wheel did not run successfully.
+exit code: 1
+
+See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
